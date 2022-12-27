@@ -26,3 +26,4 @@
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-2/971796231502331924.png" />
 </p>
+![Footer](./footer.png)
